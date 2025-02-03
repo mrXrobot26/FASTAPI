@@ -1,7 +1,4 @@
 
-Below is an example of a combined `README.md` that covers all three projects in your repository. You can adjust directory names or details as needed.
-
----
 
 # FastAPI Multi-Project Repository
 
